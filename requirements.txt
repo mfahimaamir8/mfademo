@@ -208,7 +208,6 @@ pydantic_core==2.23.4
 pydeck==0.9.1
 Pygments==2.18.0
 pygwalker==0.4.9.13
-PyJWT==2.10.1
 pymdown-extensions==10.12
 pyparsing==3.2.0
 pyperclip==1.9.0
@@ -223,12 +222,6 @@ python-keystoneclient==5.5.0
 python-multipart==0.0.19
 python-openstackclient==7.2.1
 python-socketio==5.11.4
-pytz==2024.2
-pywin32==308
-pywinpty==2.0.14
-PyYAML==6.0.2
-pyzmq==26.2.0
-quickjs==1.19.4
 referencing==0.35.1
 requests==2.32.3
 requests-oauthlib==2.0.0
